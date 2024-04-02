@@ -1,4 +1,4 @@
-23039450999761100
+23044587127106771
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94387,3 +94387,24 @@ Varistor VF
 0
 2
 2
+generic
+ESP32-WROOM-32D
+2.4 GHz Wi-Fi and Bluetooth module, https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module ESP32-D0WD Espressif ESP32-WROOM-32E
+0
+52
+39
+generic
+Potentiometer_Generic_148-149_Single_Horizontal
+Potentiometer, horizontal, Vishay 148-149 Single, http://www.vishay.com/docs/57040/148149.pdf
+Potentiometer horizontal Vishay 148-149 Single
+0
+3
+3
+generic
+fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+
+
+0
+0
+0
